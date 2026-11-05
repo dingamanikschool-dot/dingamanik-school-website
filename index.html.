@@ -1,0 +1,96 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>80 No. Dingamanik Government Primary School</title>
+<style>
+body {
+  margin: 0;
+  font-family: Arial, sans-serif;
+  color: #243447;
+  background: #f3f7fb;
+  line-height: 1.6;
+}
+header {
+  background: #07569b;
+  color: white;
+  text-align: center;
+  padding: 45px 15px;
+}
+header h1 { font-size: 27px; }
+nav {
+  background: #063d70;
+  padding: 15px;
+  text-align: center;
+}
+nav a {
+  color: white;
+  text-decoration: none;
+  margin: 10px;
+}
+main {
+  max-width: 850px;
+  margin: 25px auto;
+  padding: 15px;
+}
+section {
+  background: white;
+  padding: 25px;
+  margin-bottom: 20px;
+  border-radius: 10px;
+}
+h2 { color: #07569b; }
+footer {
+  background: #063d70;
+  color: white;
+  text-align: center;
+  padding: 20px;
+}
+</style>
+</head>
+<body>
+
+<header>
+<h1>80 No. Dingamanik Government Primary School</h1>
+<p>Dingamanik, Naria, Shariatpur, Bangladesh</p>
+</header>
+
+<nav>
+<a href="#about">About</a>
+<a href="#staff">School Staff</a>
+<a href="#contact">Contact</a>
+</nav>
+
+<main>
+<section id="about">
+<h2>Welcome to Our School</h2>
+<p>Welcome to 80 No. Dingamanik Government Primary School.</p>
+<p>Our aim is to provide children with a welcoming and supportive learning environment and a strong foundation for lifelong learning.</p>
+</section>
+
+<section id="staff">
+<h2>School Leadership and Staff</h2>
+<p><strong>Head Teacher:</strong> Syeda Setara Islam</p>
+<p><strong>Teachers:</strong> Rita Akter, Monika Khan and Shimul Rahman</p>
+<p><strong>Senior Supervisor:</strong> Harun</p>
+<p><strong>HR:</strong> Gita Datta</p>
+</section>
+
+<section id="contact">
+<h2>Contact Information</h2>
+<p><strong>School Email:</strong>
+<a href="mailto:dingamanikschool@gmail.com">dingamanikschool@gmail.com</a></p>
+<p><strong>Head Teacher:</strong>
+<a href="mailto:setarasyeda@gmail.com">setarasyeda@gmail.com</a></p>
+<p><strong>Location:</strong> Dingamanik, Naria, Shariatpur, Bangladesh</p>
+</section>
+</main>
+
+<footer>
+<p>80 No. Dingamanik Government Primary School</p>
+</footer>
+
+</body>
+</html>
